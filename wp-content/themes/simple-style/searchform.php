@@ -1,0 +1,1 @@
+<form method="get" id="searchform" action="<?php echo esc_url( home_url( '/' ) ); ?>"><input class="search-sidebar" onblur="if (this.value=='') this.value='<?php _e( 'Search ...', 'simplestyle'); ?>'" onfocus="if (this.value=='<?php _e( 'Search ...', 'simplestyle'); ?>') this.value='';" value="<?php _e( 'Search ...', 'simplestyle'); ?>" name="s" id="s"/></form>

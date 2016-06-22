@@ -1,0 +1,117 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Satellite 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/satellite\n"
+"POT-Creation-Date: 2015-03-20 13:37:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: content-page.php:21 content-single.php:21 content.php:28
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:29 content-single.php:47 content.php:46
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:41 content.php:40
+msgid "0"
+msgstr ""
+
+#: content-single.php:41 content.php:40
+msgid "1"
+msgstr ""
+
+#: content-single.php:41 content.php:40
+msgid "%"
+msgstr ""
+
+#: content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Lato, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#: functions.php:54
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. 	 * supported by Montserrat, translate this to 'off'. Do not translate
+#. 	 * into your own language.
+#.
+#. 	$montserrat = _x( 'on', 'Montserrat font: on or off', 'satellite' );
+#: functions.php:110
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#. Translators: Used between list items, there is a space after the comma
+#: functions.php:127
+msgid ", "
+msgstr ""
+
+#: functions.php:140
+msgctxt "post author"
+msgid "Author"
+msgstr ""
+
+#: header.php:23 header.php:53
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:26
+msgid "Menu"
+msgstr ""
+
+#: header.php:28
+msgid "Primary Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid "Satellite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid "https://wordpress.com/themes/satellite/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid ""
+"A snappy personal blogging theme with beautiful typography, prominent "
+"featured images, and a fresh, modern look."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid "https://wordpress.com/themes/"
+msgstr ""

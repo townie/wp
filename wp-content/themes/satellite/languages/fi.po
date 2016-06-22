@@ -1,0 +1,90 @@
+# Translation of Satellite in Finnish
+# This file is distributed under the same license as the Satellite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-03-20 13:38:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Satellite\n"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/satellite/style.css
+msgid "A snappy personal blogging theme with beautiful typography, prominent featured images, and a fresh, modern look."
+msgstr ""
+
+#: header.php:26
+msgid "Menu"
+msgstr "Valikko"
+
+#: header.php:28
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: functions.php:140
+msgctxt "post author"
+msgid "Author"
+msgstr ""
+
+#: header.php:23 header.php:53
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate
+#. * into your own language.
+#. $montserrat = _x( 'on', 'Montserrat font: on or off', 'satellite' );
+#: functions.php:110
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Julkaistu %1$s</span><span class=\"byline\"> by %2$s</span>"
+
+#. Translators: Used between list items, there is a space after the comma
+#: functions.php:127
+msgid ", "
+msgstr ", "
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:54
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s tekijä %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Voimanlähteenä %s"
+
+#: content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue loppuun <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content-single.php:41 content.php:40
+msgid "1"
+msgstr "1"
+
+#: content-single.php:41 content.php:40
+msgid "%"
+msgstr "%"
+
+#: content-single.php:41 content.php:40
+msgid "0"
+msgstr "0"
+
+#: content-page.php:29 content-single.php:47 content.php:46
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-page.php:21 content-single.php:21 content.php:28
+msgid "Pages:"
+msgstr "Sivut:"

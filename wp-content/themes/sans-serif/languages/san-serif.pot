@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sans-serif\n"
+"POT-Creation-Date: 2015-04-09 17:38+0700\n"
+"PO-Revision-Date: 2015-04-09 17:38+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comment.php:19
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comment.php:22
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comment.php:23
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:54
+msgctxt "nav menu location"
+msgid "Social"
+msgstr ""
+
+#: functions.php:59
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:60
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:102
+msgid ""
+"<span class=\"comment-form-author\">\n"
+"            <input required minlength=\"3\" maxlength=\"30\" placeholder="
+"\"Name *\" id=\"author\" name=\"author\" type=\"text\" value=\""
+msgstr ""
+
+#: functions.php:108
+msgid ""
+"<span class=\"comment-form-email\">\n"
+"            <input required placeholder=\"Email *\" id=\"email\" name=\"email"
+"\" type=\"email\" value=\""
+msgstr ""
+
+#: functions.php:114
+msgid ""
+"<span class=\"comment-form-url\">\n"
+"            <input placeholder=\"Website\" id=\"url\" name=\"url\" type=\"url"
+"\" value=\""
+msgstr ""
+
+#: functions.php:127
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:128
+msgid "Leave a Comment"
+msgstr ""
+
+#: partials/about-author.php:4
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: partials/entry-byline.php:3
+msgid "by "
+msgstr ""
+
+#: partials/entry-byline.php:5
+msgid "Edit"
+msgstr ""
+
+#: partials/entry-byline.php:6
+#, php-format
+msgid "Posted in: %s"
+msgstr ""
+
+#: partials/entry-footer.php:3
+#, php-format
+msgid "Tagged: %s"
+msgstr ""
